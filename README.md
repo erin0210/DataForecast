@@ -29,4 +29,4 @@ Temperature Forecast Using ARIMA Model:
 
 Temperature Forecast Using Facebook Prophet Model:
 
-![temp-forecast-FBProphetmodel](https://user-images.githubusercontent.com/58986256/126865805-44c7a3ae-af0b-426e-8ed3-c374f23e8cfa.jpg)
+![temp-forecast-FBProphetmodel](https://user-images.githubusercontent.com/58986256/126865855-a4f0b178-be6c-4447-9afc-2abb2847d4ad.jpg)
